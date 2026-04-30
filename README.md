@@ -2,7 +2,7 @@
 
 
 <h3 align="center">
-Software Engineer with a strong focus on Data Science & AI-driven systems.
+A Passionate Software Engineer with a strong focus on Data Science & AI-driven systems
 </h3>
 
 
