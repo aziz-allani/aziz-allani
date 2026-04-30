@@ -1,64 +1,68 @@
 <h1 align="center">Hi there 👋, I'm Aziz </h1>
 
-<h3 align="center">
-  Versatile software engineer with a main focus on data science & AI.
-</h3>
 
-🎓 Master’s Exchange Student @ Philipps-Universität Marburg
-💻 Computer Engineering Student
-🤖 Passionate about AI & Software Engineering
+<h3 align="center">
+Software Engineer with a strong focus on Data Science & AI-driven systems.
+</h3>
 
 ---
 
 ## 🚀 About Me
 
-* 🎯 Currently working on: Tumor Detection using Deep Neural Networks (MRI analysis)
-* 📚 Learning: Advanced Machine Learning, DevOps, and System Design
-* 🌍 Based in Germany
-* 💡 Interested in: AI for healthcare, backend development, and scalable systems
+Computer Science Engineer with a strong interest in building real-world intelligent systems that combine software engineering with data-driven and AI-based solutions.
+
+* 🎓 Master’s Exchange Student @ Philipps-Universität Marburg
+* 🎓 Computer Science Engineering student @ ESPRIT (Data Science specialization)
+* 🤖 Focus: AI, Machine Learning, NLP, and Software Engineering
+* ⚙️ Passionate about scalable systems, automation, and intelligent applications
+
+---
+
+## 🧠 Core Focus Areas
+
+**🧠 AI & Data Systems**
+Machine Learning • Deep Learning • NLP • Data Science
+
+**⚙️ Software Engineering**
+Backend Development • APIs • System Design • Web Applications
+
+**🔧 Engineering & Automation**
+DevOps • CI/CD • Industrial Automation • Workflow Optimization
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:**
-Python | Java | C | SQL
+**Languages:** Python, Java, C, C#, JavaScript, SQL, HTML/CSS
 
-**Frameworks & Tools:**
-TensorFlow | Keras | Django | Spring Boot | Docker | Jenkins
+**AI / Data Science:** TensorFlow, PyTorch, NLP, CNNs, Scikit-learn
 
-**Other Skills:**
-Machine Learning | Data Visualization | REST APIs | Git & GitHub
+**Frameworks:** Django, Spring Boot, React Js
 
----
+**DevOps:** Docker, Jenkins, Maven, Nexus, Linux, Grafana
 
-## 📌 Featured Projects
+**Databases:** MySQL, Oracle, MongoDB, PL/SQL
 
-🔬 **Tumor Detection System**
-Deep learning model to classify MRI images into multiple tumor classes.
-
-⚙️ **DevOps Pipeline Project**
-CI/CD pipeline using Jenkins, Docker, SonarQube, and Nexus.
-
-🌐 **Django Web App for AI Predictions**
-Web application allowing users to upload images and get AI-based predictions.
 
 ---
 
-## 📊 GitHub Stats
+## 🌍 Languages
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aziz-allani\&show_icons=true\&theme=default)
+* Arabic: Native
+* French: C1
+* English: C1
+* German: A2
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aziz-allani\&layout=compact)
+---
+
+## 📫 Contact
+
+* 📧 Email: [allani.aziz01@gmail.com](mailto:allani.aziz01@gmail.com)
+* 🔗 LinkedIn: [https://www.linkedin.com/in/mohamed-aziz-allani](https://www.linkedin.com/in/mohamed-aziz-allani)
 
 ---
 
-## 📫 Contact Me
 
-* 💼 LinkedIn: (https://www.linkedin.com/in/mohamed-aziz-allani/)
-* 📧 Email: (allani.aziz01@gmail.com)
-
----
 
 ⭐️ *Always learning, always building.*
 
