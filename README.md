@@ -34,15 +34,6 @@ Computer Science Engineer with a strong interest in building real-world intellig
 
 ---
 
-## 🌍 Languages
-
-* Arabic: Native
-* French: C1
-* English: C1
-* German: A2
-
----
-
 ## 📫 Contact
 
 * 📧 Email: [allani.aziz01@gmail.com](mailto:allani.aziz01@gmail.com)
