@@ -51,7 +51,7 @@ Web application allowing users to upload images and get AI-based predictions.
 
 ## 📫 Contact Me
 
-* 💼 LinkedIn: [(https://www.linkedin.com/in/mohamed-aziz-allani/)]
+* 💼 LinkedIn: (https://www.linkedin.com/in/mohamed-aziz-allani/)
 * 📧 Email: (allani.aziz01@gmail.com)
 
 ---
