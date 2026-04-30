@@ -1,8 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Aziz </h1>
 
-<h2 align="center">
+<h4 align="center">
   Versatile software engineer with a main focus on data science & AI.
-</h2>
+</h4>
 
 🎓 Master’s Exchange Student @ Philipps-Universität Marburg
 💻 Computer Engineering Student
