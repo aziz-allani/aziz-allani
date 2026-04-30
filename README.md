@@ -13,21 +13,9 @@ Computer Science Engineer with a strong interest in building real-world intellig
 
 * 🎓 Master’s Exchange Student @ Philipps-Universität Marburg
 * 🎓 Computer Science Engineering student @ ESPRIT (Data Science specialization)
-* 🤖 Focus: AI, Machine Learning, NLP, and Software Engineering
+* 🤖 Focus: AI, Data Science and Software Engineering
 * ⚙️ Passionate about scalable systems, automation, and intelligent applications
 
----
-
-## 🧠 Core Focus Areas
-
-**🧠 AI & Data Systems**
-Machine Learning • Deep Learning • NLP • Data Science
-
-**⚙️ Software Engineering**
-Backend Development • APIs • System Design • Web Applications
-
-**🔧 Engineering & Automation**
-DevOps • CI/CD • Industrial Automation • Workflow Optimization
 
 ---
 
