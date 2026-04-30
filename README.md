@@ -11,8 +11,7 @@ Software Engineer with a strong focus on Data Science & AI-driven systems.
 
 Computer Science Engineer with a strong interest in building real-world intelligent systems that combine software engineering with data-driven and AI-based solutions.
 
-* 🎓 Master’s Exchange Student @ Philipps-Universität Marburg
-* 🎓 Computer Science Engineering student @ ESPRIT (Data Science specialization)
+* 🎓 Computer Science Engineering student @ ESPRIT (Data Science specialization) || Master’s Exchange Student @ Philipps-Universität Marburg
 * 🤖 Focus: AI, Data Science and Software Engineering
 * ⚙️ Passionate about scalable systems, automation, and intelligent applications
 
