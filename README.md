@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Mohamed Aziz Allani
+<h1 align="center">Hi there 👋, I'm Aziz </h1>
 
 🎓 Master’s Exchange Student @ Philipps-Universität Marburg
 💻 Computer Engineering Student
