@@ -1,10 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Aziz </h1>
 
 
-<h3 align="center">
-A Passionate Software Engineer with a strong focus on Data Science & AI-driven systems
-</h3>
-
 
 
 ## 🚀 About Me
